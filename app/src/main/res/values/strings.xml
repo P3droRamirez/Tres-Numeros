@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tres numeros repaso</string>
+    <string name="labelNum1">Número 1:</string>
+    <string name="labelNum2">Número 2:</string>
+    <string name="labelNum3">Número 3:</string>
+    <string name="btnMenor">MENOR</string>
+    <string name="btnMayor">MAYOR</string>
+    <string name="btnAsc">ORD ASC</string>
+    <string name="btnDesc">ORD DESC</string>
+    <string name="btnBorrar">BORRAR TODO</string>
+</resources>

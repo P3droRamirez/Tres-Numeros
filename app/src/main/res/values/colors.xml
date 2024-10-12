@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorLabelResultado">#FF5722</color>
+    <color name="colorBotonMayorYMenor">#4CAF50</color>
+    <color name="colorBotonOrden">#1A2A85</color>
+    <color name="colorBotonBorrar">#EB0A21</color>
+</resources>
